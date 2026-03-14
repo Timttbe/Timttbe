@@ -3,7 +3,7 @@
 I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.edu.br/), currently in the **first semester of my fourth year**, passionate about **electronics, programming, automation, networks, and security systems**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/davi-han-ko-42515325b)
-[![Gmail](https://img.shields.io/badge/Gmail-Davi-red?style=flat-square&logo=gmail)](mailto:davihanko@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Davi-red?style=flat-square&logo=gmail)](mailto:davihanko@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Timttbe?label=Followers&style=flat-square)](https://github.com/Timttbe)
 
 ![Greetings](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
@@ -37,11 +37,17 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 
 ## Technologies & Tools
 
+### Embedded
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Web
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timttbe&layout=compact&theme=dark)
 
@@ -50,7 +56,7 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 ## Projects & Experience
 
 ### 🔹 Project HADES - ESP8266 Door Interlock System
-Controlled multiple doors with **NodeMCU/ESP8266 devices** using **wireless communication**, eliminating the need for physical cabling.  
+Controlled multiple doors with **NodeMCU/ESP8266 devices** using **wireless communication**, reducing the need for physical cabling.  
 The system can operate via **Wi-Fi**, but also works **without an external Wi-Fi network**, allowing flexible installation.  
 [🔗 Project Repository](https://github.com/Timttbe/Project-Hades)
 
