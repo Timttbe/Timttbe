@@ -37,6 +37,18 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 
 ## Technologies & Tools
 
+<table>
+<tr>
+<td width="40%">
+
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timttbe&layout=compact&theme=dark)
+
+</td>
+
+<td width="60%">
+
 ### Embedded
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -49,8 +61,9 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timttbe&layout=compact&theme=dark)
-
+</td>
+</tr>
+</table>
 ---
 
 ## Projects & Experience
