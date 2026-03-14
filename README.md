@@ -16,7 +16,7 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 - Currently learning **ESP8266, ESP-NOW, and home automation**  
 - Working on **microcontroller projects, embedded systems, and custom firmware**  
 - Practical experience with **CCTV, access control systems, and networking**  
-- Skilled in **configuring, maintaining, and troubleshooting** NVRs, DVRs, cameras, facial recognition systems, access control software, and network infrastructure  
+- Have experience in **configuring, maintaining, and troubleshooting** NVRs, DVRs, cameras, facial recognition systems, access control software, and network infrastructure  
 
 ---
 
@@ -24,8 +24,6 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 
 - Expanding **ESP-NOW networks** with multiple ESP-01 devices  
 - Developing **custom firmware for interlocking systems and automation**  
-- Simulating **AC dimmer circuits and embedded systems** in **SimulIDE**  
-- Configuring and maintaining **CCTV systems, access control software, and network devices**  
 - Building **web interfaces** to control and monitor devices  
 
 ---
