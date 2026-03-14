@@ -6,7 +6,11 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 [![Email](https://img.shields.io/badge/Email-Davi-red?style=flat-square&logo=gmail)](mailto:davihanko@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Timttbe?label=Followers&style=flat-square)](https://github.com/Timttbe)
 
-![Greetings](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
+<div align="center">
+  
+  ![Greetings](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
+
+</div>
 
 ---
 
@@ -36,32 +40,33 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 ---
 
 ## Technologies & Tools
-
-<table border="0" style="border:none;">
-<tr>
-<td width="60%" style="border:none;">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timttbe&layout=compact&theme=dark)
-
-</td>
-
-<td width="60%" style="border:none;">
-
-### Embedded
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Web
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  <td width="40%" border="0">
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timttbe&layout=compact&theme=dark)
+  
+  </td>
+  
+  <td width="60%" border="0">
+  
+  ### Embedded
+  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
+  ### Web
+  
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+  </td>
+  </tr>
+  </table>
+</div>
 
 ---
 
