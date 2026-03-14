@@ -45,7 +45,7 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 
 ---
 
-## 🚀 Projects & Experience
+## Projects & Experience
 
 ### 🔹 ESP-01 Door Interlock System
 Controlled multiple doors with **ESP-01 devices** using **ESP-NOW**, enabling direct device-to-device communication without external Wi-Fi.  
@@ -63,7 +63,7 @@ Check my GitHub repositories for more experiments with **embedded systems, autom
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Timttbe&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timttbe&show_icons=true&theme=dark)
