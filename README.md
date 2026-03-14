@@ -6,7 +6,7 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 [![Gmail](https://img.shields.io/badge/Gmail-Davi-red?style=flat-square&logo=gmail)](mailto:davihanko@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Timttbe?label=Followers&style=flat-square)](https://github.com/Timttbe)
 
-[![Greetings]](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
+[![Greetings](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)]
 
 ---
 
