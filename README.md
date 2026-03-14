@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Davi Han Ko
 
-I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.edu.br/), currently in the **first semester of my fourth year**, passionate about **electronics, programming, automation, networks, and security systems**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/davi-han-ko-42515325b)
-[![Email](https://img.shields.io/badge/Email-Davi-red?style=flat-square&logo=gmail)](mailto:davihanko@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Timttbe?label=Followers&style=flat-square)](https://github.com/Timttbe)
-
 <div align="center">
-  
-  ![Greetings](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
+
+Control and Automation Engineering Student  
+Embedded Systems • IoT • Automation • Networking
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/davi-han-ko-42515325b)
+[![Gmail](https://img.shields.io/badge/Gmail-davihanko-red?style=for-the-badge&logo=gmail)](mailto:davihanko@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Timttbe?style=for-the-badge)](https://github.com/Timttbe)
 
 </div>
 
@@ -16,36 +15,14 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 
 ## About Me
 
-- 4th-year **Control and Automation Engineering student at IFSP**  
-- Currently learning **ESP8266, ESP-NOW, and home automation**  
-- Working on **microcontroller projects, embedded systems, and custom firmware**  
-- Practical experience with **CCTV, access control systems, and networking**  
-- Have experience in **configuring, maintaining, and troubleshooting** NVRs, DVRs, cameras, facial recognition systems, access control software, and network infrastructure  
+- 🎓 Control and Automation Engineering student at IFSP (4th year)
+- 🔧 Passionate about embedded systems, electronics and automation
+- 🌐 Experience with networking, CCTV and access control systems
+- 💻 Developing firmware for ESP8266-based automation systems
 
 ---
 
-## Current Focus
-
-- Expanding **ESP-NOW networks** with multiple ESP-01 devices  
-- Developing **custom firmware for interlocking systems and automation**  
-- Building **web interfaces** to control and monitor devices  
-
----
-
-## Semester Progress
-
-![Semester Progress](https://img.shields.io/badge/Semester-25%25-4caf50?style=for-the-badge)  
-*Currently in the first semester of the 4th year*
-
----
-
-## Technologies & Tools
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timttbe&layout=compact&theme=dark&hide_border=true"/>
-
-</div>
+## Technologies
 
 ### Embedded
 
@@ -69,32 +46,58 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 
 ---
 
-## Projects & Experience
+## Projects
 
-### 🔹 Project HADES - ESP8266 Door Interlock System
-Controlled multiple doors with **NodeMCU/ESP8266 devices** using **wireless communication**, reducing the need for physical cabling.  
-The system can operate via **Wi-Fi**, but also works **without an external Wi-Fi network**, allowing flexible installation.  
-[🔗 Project Repository](https://github.com/Timttbe/Project-Hades)
+### 🔹 Project HADES
+ESP8266 distributed door interlock system using wireless communication between NodeMCU devices.
 
-### 🔹 Project NEXUS – Distributed IoT Control Platform
-Experimental IoT automation platform built with ESP8266 devices that communicate using a lightweight UDP broadcast protocol over Wi-Fi. Devices automatically discover each other, synchronize their status and execute commands without requiring cloud services or a centralized controller, serving as a foundation for distributed automation systems similar to Home Assistant.
-[🔗 Project Repository](https://github.com/Timttbe/Project-Nexus)
+- UDP device discovery
+- Distributed interlocking logic
+- No physical wiring required
+
+🔗 https://github.com/Timttbe/Project-Hades
+
+---
+
+### 🔹 Project NEXUS
+Experimental distributed IoT automation platform based on ESP8266 devices communicating over UDP broadcast.
+
+- Device auto discovery
+- Status synchronization
+- Distributed command system
+- Foundation for automation networks similar to Home Assistant
+
+🔗 https://github.com/Timttbe/Project-Nexus
+
+---
 
 ### 🔹 AC Dimmer with AVR
-AC lamp dimmer project simulated in **SimulIDE**, demonstrating **TRIAC phase control** and microcontroller-based automation.  
-[🔗 Project Repository](https://github.com/Timttbe/Project-Dimmer)
+AC phase control dimmer simulated in SimulIDE demonstrating TRIAC control and microcontroller-based automation.
 
-### 🔹 CCTV, Access Control & Networking
-Practical experience configuring and maintaining **NVRs, DVRs, cameras, facial recognition systems, access control software, and network infrastructure**.  
+🔗 https://github.com/Timttbe/Project-Dimmer
 
-### 🔹 More Projects
-Checkout my GitHub repositories for more experiments with **embedded systems, automation, electronics, and networked devices**. 
-[![GitHub Repo](https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Timttbe?tab=repositories)
+---
+
+## Experience
+
+Practical experience working with:
+
+- CCTV systems
+- NVR / DVR configuration
+- Access control systems
+- Facial recognition devices
+- Network infrastructure
 
 ---
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Timttbe&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timttbe&show_icons=true&theme=dark)
+<div align="center">
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timttbe&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timttbe&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Timttbe&theme=dark&hide_border=true)
+
+</div>
