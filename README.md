@@ -37,17 +37,15 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 
 ## Technologies & Tools
 
-<table>
+<table border = "0" style = "border:none;">
 <tr>
-<td width="40%">
-
-### Most Used Languages
+<td width="40%" style = "border:none;">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timttbe&layout=compact&theme=dark)
 
 </td>
 
-<td width="60%">
+<td width="60%" style = "border:none;">
 
 ### Embedded
 
