@@ -6,6 +6,8 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 [![Gmail](https://img.shields.io/badge/Gmail-Davi-red?style=flat-square&logo=gmail)](mailto:davihanko@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Timttbe?label=Followers&style=flat-square)](https://github.com/Timttbe)
 
+[![Greetings]](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
+
 ---
 
 ## About Me
@@ -49,11 +51,9 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 
 ### 🔹 ESP-01 Door Interlock System
 Controlled multiple doors with **ESP-01 devices** using **ESP-NOW**, enabling direct device-to-device communication without external Wi-Fi.  
-![ESP-01 Project](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
 
 ### 🔹 AC Dimmer with AVR
 AC lamp dimmer project simulated in **SimulIDE**, demonstrating TRIAC phase control and microcontroller-based circuit control.  
-![AC Dimmer](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
 
 ### 🔹 CCTV, Access Control & Networking
 Practical experience configuring and maintaining **NVRs, DVRs, cameras, facial recognition systems, access control software, and network infrastructure**.  
