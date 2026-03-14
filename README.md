@@ -47,10 +47,14 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 
 ## Projects & Experience
 
-### 🔹 ESP8266 Door Interlock System
+### 🔹 Project HADES - ESP8266 Door Interlock System
 Controlled multiple doors with **NodeMCU/ESP8266 devices** using **wireless communication**, eliminating the need for physical cabling.  
 The system can operate via **Wi-Fi**, but also works **without an external Wi-Fi network**, allowing flexible installation.  
 [🔗 Project Repository](https://github.com/Timttbe/Project-Hades)
+
+### 🔹 Project NEXUS – Distributed IoT Control Platform
+Experimental IoT automation platform built with ESP8266 devices that communicate using a lightweight UDP broadcast protocol over Wi-Fi. Devices automatically discover each other, synchronize their status and execute commands without requiring cloud services or a centralized controller, serving as a foundation for distributed automation systems similar to Home Assistant.
+[🔗 Project Repository](https://github.com/Timttbe/Project-Nexus)
 
 ### 🔹 AC Dimmer with AVR
 AC lamp dimmer project simulated in **SimulIDE**, demonstrating **TRIAC phase control** and microcontroller-based automation.  
