@@ -47,18 +47,20 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 
 ## Projects & Experience
 
-### 🔹 ESP-01 Door Interlock System
-Controlled multiple doors with **ESP-01 devices** using **ESP-NOW**, enabling direct device-to-device communication without external Wi-Fi.  
+### 🔹 ESP8266 Door Interlock System
+Controlled multiple doors with **NodeMCU/ESP8266 devices** using **wireless communication**, eliminating the need for physical cabling.  
+The system can operate via **Wi-Fi**, but also works **without an external Wi-Fi network**, allowing flexible installation.  
+[🔗 Project Repository](https://github.com/Timttbe/Project-Hades)
 
 ### 🔹 AC Dimmer with AVR
-AC lamp dimmer project simulated in **SimulIDE**, demonstrating TRIAC phase control and microcontroller-based circuit control.  
+AC lamp dimmer project simulated in **SimulIDE**, demonstrating **TRIAC phase control** and microcontroller-based automation.  
+[🔗 Project Repository](https://github.com/Timttbe/Project-Dimmer)
 
 ### 🔹 CCTV, Access Control & Networking
 Practical experience configuring and maintaining **NVRs, DVRs, cameras, facial recognition systems, access control software, and network infrastructure**.  
 
 ### 🔹 More Projects
-Check my GitHub repositories for more experiments with **embedded systems, automation, electronics, and networked devices**.  
-
+Checkout my GitHub repositories for more experiments with **embedded systems, automation, electronics, and networked devices**. 
 [![GitHub Repo](https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Timttbe?tab=repositories)
 
 ---
