@@ -5,7 +5,7 @@
 Control and Automation Engineering Student  
 Embedded Systems • IoT • Automation • Networking
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/davi-han-ko-42515325b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=davi-han-ko-42515325b)
 [![Gmail](https://img.shields.io/badge/Gmail-davihanko-red?style=for-the-badge&logo=gmail)](mailto:davihanko@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Timttbe?style=for-the-badge)](https://github.com/Timttbe)
 
