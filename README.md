@@ -40,32 +40,31 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 ---
 
 ## Technologies & Tools
+
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-  <td width="40%" border="0">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timttbe&layout=compact&theme=dark)
-  
-  </td>
-  
-  <td width="60%" border="0">
-  
-  ### Embedded
-  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  
-  ### Web
-  
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-  </td>
-  </tr>
-  </table>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timttbe&layout=compact&theme=dark&hide_border=true"/>
+
+</div>
+
+### Embedded
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+### Web
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 </div>
 
 ---
