@@ -43,6 +43,8 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timttbe&layout=compact&theme=dark)
+
 ---
 
 ## Projects & Experience
@@ -73,5 +75,4 @@ Checkout my GitHub repositories for more experiments with **embedded systems, au
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Timttbe&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timttbe&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timttbe&layout=compact&theme=dark)
 
