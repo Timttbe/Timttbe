@@ -2,8 +2,8 @@
 
 <div align="center">
 
-Control and Automation Engineering Student  
-Embedded Systems • IoT • Automation • Networking
+Control and Automation Engineering Student
+Working with Embedded Systems • IoT • Automation • Networking
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/davi-han-ko-42515325b/)
 [![Gmail](https://img.shields.io/badge/Gmail-davihanko-red?style=for-the-badge&logo=gmail)](mailto:davihanko@gmail.com)
