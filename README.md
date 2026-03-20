@@ -69,8 +69,12 @@ AC lamp dimmer simulated in **SimulIDE**, demonstrating **TRIAC phase control** 
 ---
  
 ## GitHub Stats
+
+<div align = "center">
  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Timttbe&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timttbe&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timttbe&layout=compact&theme=dark)
- 
+
+</div>
+
