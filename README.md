@@ -5,7 +5,6 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DaviHanKo-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/davi-han-ko-42515325b)
 [![Gmail](https://img.shields.io/badge/Gmail-davihanko@gmail.com-red?style=flat-square&logo=gmail)](mailto:davihanko@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-timttbe-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/639221299469877249)
-[![Instagram](https://img.shields.io/badge/Instagram-timttbe-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/timttbe/)
 
 ---
  
