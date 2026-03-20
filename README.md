@@ -39,10 +39,10 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 ## Projects
  
 ### Project JANUS — Distributed Door Interlock System *(in development)*
- 
-Distributed access control system built with **ESP8266 (NodeMCU)** devices communicating over a **custom UDP protocol**. Implements priority-based master election, physical interlock logic, fallback AP mode, and zero-touch Wi-Fi provisioning — operating fully without cloud services or external infrastructure.
- 
-Key engineering decisions: race condition prevention via atomic token locking, relay-aware interlock flags to close the sensor travel window, dual hardware + logic watchdog, and shared-key UDP authentication.
+
+Distributed access control system built with ESP8266 (NodeMCU) devices communicating over a custom UDP protocol. Implements physical door interlock logic, relay-aware race condition prevention, and a built-in web dashboard — operating fully without cloud services or external infrastructure.
+
+The PORTEIRO node hosts a permanent Wi-Fi AP for stable device-to-device communication, connects to the local network in parallel for LAN access, and serves a real-time monitoring interface with remote open and bypass controls.
  
 [🔗 Repository](https://github.com/Timttbe/Project-Janus)
  
