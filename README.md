@@ -37,7 +37,7 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
  
 ## Projects
  
-### Project JANUS — Distributed Door Interlock System *(in development)*
+### Project Interlock Automation — Distributed Door Interlock System *(in development)*
 
 Distributed access control system built with ESP8266 (NodeMCU) devices communicating over a custom UDP protocol. Implements physical door interlock logic, relay-aware race condition prevention, and a built-in web dashboard — operating fully without cloud services or external infrastructure.
 
