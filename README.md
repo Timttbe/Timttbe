@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/U40Pffh-rBgAAAAj/%E7%BF%BB%E6%BB%BE%E7%99%BD%E8%B2%93-%E7%BF%BB%E6%BB%BE.gif" width="30"> Hi, I'm Davi Han Ko 
+# <img src="https://media.tenor.com/U40Pffh-rBgAAAAj/%E7%BF%BB%E6%BB%BE%E7%99%BD%E8%B2%93-%E7%BF%BB%E6%BB%BE.gif" width="30"> Hi, I'm Davi Han Ko <img src="https://media.tenor.com/U40Pffh-rBgAAAAj/%E7%BF%BB%E6%BB%BE%E7%99%BD%E8%B2%93-%E7%BF%BB%E6%BB%BE.gif" width="30"> 
  
 I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.edu.br/), currently in the **first semester of my fourth year**, passionate about **electronics, embedded systems, automation, networks, and security systems**.
  
