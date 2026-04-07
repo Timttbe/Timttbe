@@ -1,4 +1,6 @@
 # Hi, I'm Davi Han Ko
+
+ <img src="https://github.com/user-attachments/assets/9f650b2f-5f78-45ef-a3c0-86cdcc076334" width="180">
  
 I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.edu.br/), currently in the **first semester of my fourth year**, passionate about **electronics, embedded systems, automation, networks, and security systems**.
  
@@ -73,10 +75,11 @@ AC lamp dimmer simulated in **SimulIDE**, demonstrating **TRIAC phase control** 
  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timttbe&theme=dark" width="400" />
   <img src="https://github-readme-stats.vercel.app/api?username=Timttbe&show_icons=true&theme=dark" width="376" />
+  [![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=Timttbe&show_icons=true&theme=radical&hide_rank=true)](https://github-readme-stats.vercel.app/api?username=Timttbe) 
  
 </div>
 <div align = "center">
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timttbe&layout=compact&theme=dark)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timttbe&layout=compact&theme=dark)
 
 </div>
