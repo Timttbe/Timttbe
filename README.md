@@ -8,6 +8,8 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 [![Gmail](https://img.shields.io/badge/Gmail-davihanko@gmail.com-red?style=flat-square&logo=gmail)](mailto:davihanko@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-timttbe-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/639221299469877249)
 
+##
+
 ---
  
 ## Experience
@@ -16,7 +18,9 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 - Building **microcontroller projects, custom protocols, and automation infrastructure**
 - Practical experience with **CCTV, access control systems, and network infrastructure**
 - Hands-on background configuring and maintaining **NVRs, DVRs, cameras, facial recognition systems, access control software, and structured cabling**
- 
+
+##
+
 ---
  
 ## Current Focus
@@ -24,6 +28,7 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 - Developing **custom firmware for distributed interlock and automation systems**
 - Expanding **ESP-NOW and UDP-based mesh networks** with ESP8266 devices
 - Building **embedded web interfaces** to monitor and control devices locally
+##
  
 ---
  
@@ -38,4 +43,4 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 
 </div>
 
----
+##
